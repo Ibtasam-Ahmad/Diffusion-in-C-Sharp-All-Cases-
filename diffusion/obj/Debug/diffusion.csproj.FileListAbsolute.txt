@@ -1,0 +1,32 @@
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\bin\Debug\diffusion.exe.config
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\bin\Debug\diffusion.exe
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\bin\Debug\diffusion.pdb
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.csprojResolveAssemblyReference.cache
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.Form1.resources
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.Properties.Resources.resources
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.GenerateResource.Cache
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.exe
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.pdb
+C:\Users\2918bm\Desktop\diffusion_2d\diffusion\obj\Debug\diffusion.Form2.resources
+Z:\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.exe.config
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.pdb
+Z:\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.exe
+Z:\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.pdb
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csprojResolveAssemblyReference.cache
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Form1.resources
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Form2.resources
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Properties.Resources.resources
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.GenerateResource.Cache
+Z:\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.exe.config
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\bin\Debug\diffusion.pdb
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.SuggestedBindingRedirects.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Form2.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.Properties.Resources.resources
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.exe
+E:\All Files Folder\Simulation\After mids 7\XYZ\Sim Lab 2\diffusion_2d\diffusion\obj\Debug\diffusion.pdb
